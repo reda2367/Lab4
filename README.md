@@ -1,2 +1,3 @@
 # Lab4
-This is the repository for lab 4
+Remy Dahlke
+Version Contol Lab
